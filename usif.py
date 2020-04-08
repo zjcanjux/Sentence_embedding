@@ -3,8 +3,6 @@
 import json
 import numpy as np
 from sklearn.decomposition import TruncatedSVD
-from gensim.models import word2vec
-import torch
 from torchtext.vocab import Vectors
 
 class word2prob(object):
