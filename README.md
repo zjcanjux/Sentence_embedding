@@ -1,5 +1,5 @@
 # Sentence_embedding
-Unsupervised sentence embedding method 非监督的句向量编码  
+Unsupervised sentence embedding method 非监督的句向量生成，可用于一些任务（文本相似）的baseline。
 ## 主要实现一些非监督的句向量编码方法  
 已经实现的有:  
 1.average  最简单的句向量方法，即基于词向量的求和平均  
